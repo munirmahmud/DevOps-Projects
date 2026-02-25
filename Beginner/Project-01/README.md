@@ -1,4 +1,4 @@
-# 🖥️ Project-03: Linux Administration & AWS EC2 + EBS Volume Management
+# 🖥️ Project-01: Linux Administration & AWS EC2 + EBS Volume Management
 
 <div align="center">
 
